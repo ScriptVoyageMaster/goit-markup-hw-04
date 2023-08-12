@@ -406,6 +406,9 @@ margin-right: 120px;
   letter-spacing: 0.32px;
  margin-bottom: 16px;
 }
+.footer .social-list{
+  gap: 16px;
+}
 .footer-lnk {
   color: var(--iris);
   font-family: 'Raleway', sans-serif;
